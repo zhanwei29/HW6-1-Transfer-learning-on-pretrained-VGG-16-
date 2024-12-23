@@ -9,6 +9,8 @@ step1 : run the train_face_mask.py
 -> output a file face_mask_detector_vgg16.h5
 -> output training result picture.
 
+
 step2 : run the test_face_mask.py
 ->input image url
 ->output result in command window
+
